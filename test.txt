@@ -1,1 +1,1 @@
-Conflict merge testing
+Conflict merge testing from gitRepo1 folder
