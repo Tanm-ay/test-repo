@@ -1,2 +1,0 @@
-Conflict merge testing
-This line is added from gitRepo1 folder
