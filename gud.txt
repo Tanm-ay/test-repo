@@ -1,1 +1,2 @@
 Merge conflict test.
+Adding text from folder 2. 
